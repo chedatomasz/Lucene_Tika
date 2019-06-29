@@ -1,0 +1,3 @@
+Maven w kroku package tworzy JARy z wszystkimi zaleznosciami do wygodnego odpalania (jak opisano w usage)
+Nie sa one zalaczone ze wzgledu na duzy rozmiar (>100MB).
+
